@@ -13,11 +13,13 @@
 <p><em>Just kidding...</em></p>
 
 <h2 align="center">Hi 👋! My name is Oladipupo Abiola Matthew
-As a skilled Data Scientist and Artificial Intelligence Researcher, I bring a unique blend of innovation and security to each project I undertake. At the same time, my expertise in cybersecurity allows me to safeguard these solutions against evolving threats, ensuring the integrity and confidentiality of data</h2>
+Hi 👋! My name is Oladipupo Abiola Matthew. As a skilled Data Scientist and Artificial Intelligence Researcher, I bring a unique blend of analytical expertise and creativity to every project I undertake. I specialize in developing intelligent systems that drive insights and foster innovation, leveraging advanced machine learning and deep learning techniques to solve complex problems and uncover meaningful patterns in data.</h2>
 
 ###
 
-<p align="left">💡 I have substantial knowledge and experience in frontend and backend development frameworks.<br>🔦 In my free time, I try to help people fix bugs in their code.<br>I code certain stuff for fun as well :)<br>I love to learn new cool stuff</p>
+<p align="left">💡 With substantial knowledge and experience in frontend and backend development frameworks, I bring a unique skill set to my role as a Data Scientist and AI Researcher. This blend of development expertise allows me to build robust data-driven applications and integrate machine learning models into seamless, user-friendly interfaces, enhancing accessibility and functionality for end-users.
+
+<br>🔦 In my free time, I try to help people fix bugs in their code.<br>I code certain stuff for fun as well :)<br>I love to learn new cool stuff</p>
 
 ###
 
