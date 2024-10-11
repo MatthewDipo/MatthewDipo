@@ -13,7 +13,7 @@
 <p><em>Just kidding...</em></p>
 
 <h2 align="center">Hi 👋! My name is Oladipupo Abiola Matthew
-As a skilled Software Developer and Cybersecurity Analyst, I bring a unique blend of innovation and security to each project I undertake. At the same time, my expertise in cybersecurity allows me to safeguard these solutions against evolving threats, ensuring the integrity and confidentiality of data</h2>
+As a skilled Data Scientist and Artificial Intelligence Researcher, I bring a unique blend of innovation and security to each project I undertake. At the same time, my expertise in cybersecurity allows me to safeguard these solutions against evolving threats, ensuring the integrity and confidentiality of data</h2>
 
 ###
 
